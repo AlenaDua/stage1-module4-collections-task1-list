@@ -2,8 +2,10 @@
 
 ## 1. Create ArrayList
 
-Implement the program which gets `List<String>` as parameter and creates a new `ArrayList<String>`. `ArrayList<String>`
-should consist of _duplicated_ words whose index in `List<String>` _is divisible by 3_ (indexes start from 1).
+Implement the program which gets `List<String>` as parameter and creates a new `ArrayList<String>`.
+`ArrayList<String>`
+should consist of _duplicated_ words whose index in `List<String>` 
+_is divisible by 3_ (indexes start from 1).
 
 ```
 public class ArrayListCreator {
@@ -28,9 +30,11 @@ public class ArrayListCreator {
 
 ## 2. Create a LinkedList
 
-Implement the program which will create `LinkedList<Integer>` from `List<Integer>` following the rule:
+Implement the program which will create `LinkedList<Integer>` 
+from `List<Integer>` following the rule:
 
-_If the number from the `List<Integer>` is odd, then insert this number at the beginning of the `LinkedList<Integer>`,
+_If the number from the `List<Integer>` is odd,
+then insert this number at the beginning of the `LinkedList<Integer>`,
 otherwise, insert the number at the end_ of the `LinkedList<Integer>`.
 
 ```
